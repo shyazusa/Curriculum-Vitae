@@ -81,4 +81,4 @@
 
 ## 賞罰
 
-- 平成26年 3 HAL Event Week 金賞 受賞
+- 平成26年 3月 HAL Event Week 金賞 受賞
