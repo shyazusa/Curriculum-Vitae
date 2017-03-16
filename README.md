@@ -74,10 +74,10 @@
 
 |サービス名|アカウントリンク|
 |:---:|:---:|
-|Twitter|[@shy_azusa](https://twitter.com/shy_azusa)|
 |GitHub|[shyazusa(shy_azusa)](https://github.com/shyazusa)|
 |GitHubGist|[shyazusa’s gists](https://gist.github.com/shyazusa)|
 |Qiita|[shy_azusa](http://qiita.com/shy_azusa)|
+|Twitter|[@shy_azusa](https://twitter.com/shy_azusa)|
 
 ## 賞罰
 
