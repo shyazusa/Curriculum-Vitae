@@ -33,8 +33,10 @@
     - cakePHP (PHP)
     - Ethna (PHP)
     - Ruby on Rails (Ruby)
+    - Sinatra (Ruby)
   - DB
     - MySQL
+    - PostgreSQL
   - OS
     - Linux (3年)
     - macOS (3年)
@@ -47,7 +49,7 @@
 
 |期間|プロジェクト内容|環境|役割/PJ規模|
 |:---:|:---:|:---:|:---:|
-|2017年08月 ~ 現在|単品通販システム|Linux/Ruby/Ruby on Rails/SQL|調査・分析，プログラミング|
+|2017年08月 ~ 現在|単品通販システム|Linux/Ruby/Ruby on Rails/SQL|調査・分析，詳細設計，プログラミング|
 |2015年10月 ~ 2017年07月|勤怠交通費精算アプリ|Linux/PHP/独自フレームワーク/MySQL|調査・分析，プログラミング|
 |2015年08月 ~ 2015年10月|営業支援ツール|Linux/PHP/cakePHP/MySQL|調査・分析，プログラミング|
 |2015年04月 ~ 2016年02月|リスティング管理ツール|Linux/PHP/cakePHP/MySQL|調査・分析，基本設計，詳細設計，プログラミング|
