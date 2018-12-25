@@ -4,7 +4,6 @@ var config = {
   orientation: "vertical"
 };
 var gitGraph = new GitGraph(config);
-
 var master = gitGraph.branch({
   name: "master",
   // 菊池 真
