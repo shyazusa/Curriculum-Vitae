@@ -7,9 +7,10 @@ var gitGraph = new GitGraph(config);
 
 var master = gitGraph.branch({
   name: "master",
-  color: "#9238BE",
+  // 菊池 真
+  color: "#515558",
   commitDefaultOptions: {
-    color: "#9238BE"
+    color: "#515558"
   }
 });
 master.commit({
