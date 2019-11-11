@@ -123,3 +123,4 @@ temona.commit({
   message: "2017/08 単品通販システム開発",
   author: "竹井 彰平 <shy_azusa@gmail.com>"
 });
+temona.merge(master, {message: "2019/10/31 テモナ株式会社 退職", author: "竹井 彰平 <shy_azusa@gmail.com>"});
