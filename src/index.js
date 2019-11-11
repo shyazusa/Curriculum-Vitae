@@ -39,18 +39,6 @@ hal.commit({
   message: "2010/04/01 HAL東京 先端ロボット開発学科 入学",
   author: "竹井 彰平 <shy_azusa@gmail.com>"
 });
-master.commit({
-  message: "2010/04/26 日吉から逗子へ引っ越し",
-  author: "竹井 彰平 <shy_azusa@gmail.com>"
-});
-master.commit({
-  message: "2012/04/29 逗子から逗子へ引っ越し",
-  author: "竹井 彰平 <shy_azusa@gmail.com>"
-});
-master.commit({
-  message: "2013/09/02 逗子から大倉山へ引っ越し",
-  author: "竹井 彰平 <shy_azusa@gmail.com>"
-});
 hal.commit({
   message: "2014/03/31 HAL Event Week 金賞 受賞",
   author: "竹井 彰平 <shy_azusa@gmail.com>"
@@ -99,10 +87,6 @@ geocode.commit({
   message: "2015/10 勤怠交通費清算アプリ開発",
   author: "竹井 彰平 <shy_azusa@gmail.com>"
 });
-master.commit({
-  message: "2017/04/12 Apple Watch購入",
-  author: "竹井 彰平 <shy_azusa@gmail.com>"
-});
 geocode.merge(master, {message: "2017/07/31 株式会社ジオコード 退職", author: "竹井 彰平 <shy_azusa@gmail.com>"});
 var temona = gitGraph.branch({
   name: "temona",
@@ -113,10 +97,6 @@ var temona = gitGraph.branch({
 });
 temona.commit({
   message: "2017/08/01 テモナ株式会社 入社",
-  author: "竹井 彰平 <shy_azusa@gmail.com>"
-});
-master.commit({
-  message: "2017/11/19 iPhone 8購入",
   author: "竹井 彰平 <shy_azusa@gmail.com>"
 });
 temona.commit({
