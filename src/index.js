@@ -124,3 +124,18 @@ temona.commit({
   author: "竹井 彰平 <shy_azusa@gmail.com>"
 });
 temona.merge(master, {message: "2019/10/31 テモナ株式会社 退職", author: "竹井 彰平 <shy_azusa@gmail.com>"});
+var speee = gitGraph.branch({
+  name: "speee",
+  color: "#01268E",
+  commitDefaultOptions: {
+    color: "#01268E"
+  }
+});
+speee.commit({
+  message: "2019/11/01 株式会社Speee 入社",
+  author: "竹井 彰平 <shy_azusa@gmail.com>"
+});
+speee.commit({
+  message: "2019/11/01 リフォーム事業開発",
+  author: "竹井 彰平 <shy_azusa@gmail.com>"
+});
