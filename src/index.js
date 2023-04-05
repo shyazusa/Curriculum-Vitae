@@ -119,3 +119,19 @@ speee.commit({
   message: "2019/11/01 リフォーム事業開発",
   author: "竹井 彰平 <shy.azusa@gmail.com>"
 });
+speee.merge(master, {message: "2023/03/31 株式会社Speee 退職", author: "竹井 彰平 <shy.azusa@gmail.com>"});
+var lincwell = gitGraph.branch({
+  name: "lincwell",
+  color: "#52B5E9",
+  commitDefaultOptions: {
+    color: "#52B5E9"
+  }
+});
+speee.commit({
+  message: "2023/04/01 株式会社Linc'well 入社",
+  author: "竹井 彰平 <shy.azusa@gmail.com>"
+});
+speee.commit({
+  message: "2023/04/01 オンライン診療開発",
+  author: "竹井 彰平 <shy.azusa@gmail.com>"
+});
